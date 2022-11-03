@@ -1,0 +1,4 @@
+name: BlockRun
+version: '${project.version}'
+main: game.blockrun.Blockrun
+api-version: 1.19
